@@ -1,12 +1,14 @@
-﻿using System;
+namespace PalindromeExercise;
 
-namespace PalindromeExercise
-{
-    class Program
+public class Program
+{ 
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+       
     }
+
+
+
+
 }
+   
